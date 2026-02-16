@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Smart Watch",
+    "price": 1999,
+    "category": "Electronics",
+    "image": "/images/smartwatch.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Running Shoes",
+    "price": 899,
+    "category": "Clothing",
+    "image": "/images/runningshoes.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Coffee Mug",
+    "price": 199,
+    "category": "Home",
+    "image": "/images/coffee mug.jpg"
+  }
+]
