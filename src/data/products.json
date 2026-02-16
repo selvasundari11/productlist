@@ -18,6 +18,6 @@
     "title": "Coffee Mug",
     "price": 199,
     "category": "Home",
-    "image": "/images/coffee-mug.jpg"  ← FIXED: was "coffee mug.jpg"
+    "image": "/images/coffee mug.jpg"  
   }
 ]
